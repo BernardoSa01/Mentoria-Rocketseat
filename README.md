@@ -8,7 +8,7 @@ Desafio proposto no Stage 03 do programa Explorer da Rocketseat, com o objetivo 
 
 </p>
 
- - [Acesse o projeto finalizado, online]()
+ - [Acesse o projeto finalizado, online](https://bernardosa01.github.io/Mentoria-Rocketseat/)
 
 
 <p align="center">
